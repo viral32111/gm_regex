@@ -39,4 +39,4 @@ Run `build.bat` to generate a Visual Studio 2019 for Windows using the supplied 
 ### Building *(Visual Studio 2019)*
 Once you've made your changes to the source code, press CTRL+B (or Build > Build gm_steam). This will generate the .dll file inside a `build` folder.
 
-###### [Copyright 2019-2020 viral32111](LICENSE.md)
+###### [Copyright 2019 - 2021 viral32111](LICENSE.md)
